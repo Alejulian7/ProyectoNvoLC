@@ -1,0 +1,1 @@
+Debido a un problema relacionado con la implementación de lenguajes y herramientas de trabajo en el proyecto anterior "Turísmo La Calera", nos vimos obligados a crear otro proyecto desde cero y con el este nuevo repositorio.
